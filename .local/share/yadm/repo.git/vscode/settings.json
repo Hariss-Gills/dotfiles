@@ -1,0 +1,74 @@
+{
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook",
+        "*.disk": "hexEditor.hexedit"
+    },
+    "terminal.integrated.tabs.enabled": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "git.enableSmartCommit": true,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "workbench.colorTheme": "Dracula Cleaner",
+    "workbench.iconTheme": "emoji-file-icons",
+    "workbench.productIconTheme": "emoji-product-icons-fun",
+    "editor.minimap.enabled": false,
+    "editor.fontWeight": "500",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorWidth": 3,
+    "editor.lineHeight": 25,
+    "workbench.editor.enablePreview": false,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.fontLigatures": true,
+    "editor.linkedEditing": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[svelte]": {
+        "editor.defaultFormatter": "svelte.svelte-vscode"
+      },
+    "svelte.enable-ts-plugin": true,
+    "editor.stickyScroll.enabled": true,
+    "[typescript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "svelte.plugin.svelte.note-new-transformation": false,
+    "code-runner.runInTerminal": true,
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "hexeditor.columnWidth": 16,
+    "hexeditor.showDecodedText": true,
+    "hexeditor.defaultEndianness": "little",
+    "hexeditor.inspectorType": "aside",
+    "todohighlight.isEnable": true,
+    "svg.preview.mode": "svg",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "editor.fontFamily": "FiraCode Nerd Font",
+    "terminal.integrated.fontFamily": "FiraCode Nerd Font",
+    "terminal.integrated.fontWeight": "500"
+}
