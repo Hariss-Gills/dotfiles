@@ -33,15 +33,14 @@ local plugins = {
   },
   {
     "nvim-treesitter/nvim-treesitter",
-    opts = function()
-      opts.ensure_installed = {
+    opts = {
+      ensure_installed = {
         "lua",
         "javascript",
         "typescript",
         "tsx",
-      }
-      return opts
-    end,
-  }
+      },
+    },
+  },
 }
 return plugins

@@ -61,8 +61,8 @@ format = 'at [$path]($style)[$read_only]($read_only_style) '
 
 # uniform prompt characters
 [character]
-success_symbol = '[❯](bold #00ff00)'
-error_symbol = ''
+success_symbol = '[❯](bold rosewater)'
+error_symbol = '[❯](bold rosewater)'
 format = '[$symbol](style) '
 
 ####### RHS
