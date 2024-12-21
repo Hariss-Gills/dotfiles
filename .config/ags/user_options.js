@@ -4,14 +4,14 @@
 //   options listed in this file will override the default ones in the above file
 
 const userConfigOptions = {
-  'sidebar': {
-    'pages': {
-        'order': ["apis", "tools"],
-        'apis': {
-            'order': ["gemini", "gpt"],
-        }
-    },
+    'sidebar': {
+        'pages': {
+            'order': ["apis", "tools"],
+            'apis': {
+                'order': ["gemini", "gpt"],
+            }
+        },
+    }
 }
-};
 
 export default userConfigOptions;
