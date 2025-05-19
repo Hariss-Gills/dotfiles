@@ -9,12 +9,14 @@ lspconfig.servers = {
     "lua_ls",
     "pyright",
     "texlab",
+    "taplo",
 }
 
 -- list of servers configured with default config.
 local default_servers = {
     "pyright",
     "texlab",
+    "taplo",
 }
 
 -- lsps with default config

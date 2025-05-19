@@ -66,4 +66,12 @@ return {
         -- opts instead of a custom config function like other plugins.
         opts = {},
     },
+    {
+        "folke/todo-comments.nvim",
+        event = { "BufReadPre", "BufNewFile" },
+        dependencies = { "nvim-lua/plenary.nvim" },
+        -- I doubt I will ever use custom config here so simply pass
+        -- opts instead of a custom config function like other plugins.
+        opts = {},
+    },
 }
