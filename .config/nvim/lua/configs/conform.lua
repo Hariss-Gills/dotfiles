@@ -3,6 +3,8 @@ local options = {
         lua = { "stylua" },
         python = { "isort", "black" },
         tex = { "latexindent" },
+        javascript = { "prettier" },
+        javascriptreact = { "prettier" },
     },
 
     formatters = {

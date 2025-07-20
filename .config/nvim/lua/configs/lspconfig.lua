@@ -10,6 +10,7 @@ lspconfig.servers = {
     "pyright",
     "texlab",
     "taplo",
+    "eslint",
 }
 
 -- list of servers configured with default config.
@@ -17,6 +18,7 @@ local default_servers = {
     "pyright",
     "texlab",
     "taplo",
+    "eslint",
 }
 
 -- lsps with default config
