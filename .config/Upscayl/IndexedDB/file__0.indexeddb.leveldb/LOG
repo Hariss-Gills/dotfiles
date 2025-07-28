@@ -1,0 +1,6 @@
+2025/07/27-15:37:29.368 1b417 Creating DB /home/hariss/.config/Upscayl/IndexedDB/file__0.indexeddb.leveldb since it was missing.
+2025/07/27-15:37:29.400 1b417 Reusing MANIFEST /home/hariss/.config/Upscayl/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2025/07/27-15:37:29.676 1b433 Level-0 table #5: started
+2025/07/27-15:37:29.683 1b433 Level-0 table #5: 641 bytes OK
+2025/07/27-15:37:29.693 1b433 Delete type=0 #3
+2025/07/27-15:37:29.693 1b433 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)

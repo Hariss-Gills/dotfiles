@@ -1,0 +1,5 @@
+[2025-07-27 15:37:29.033] [info]  🆙 Upscayl version: 2.15.0 FOSS
+[2025-07-27 15:37:29.036] [info]  🚀 UPSCAYL EXEC PATH:  /usr/share/upscayl/bin/upscayl-bin
+[2025-07-27 15:37:29.036] [info]  🚀 MODELS PATH:  /usr/share/upscayl/models
+[2025-07-27 15:37:29.037] [info]  🚃 App Path:  /usr/share/upscayl/app.asar
+[2025-07-27 15:37:29.513] [info]  💻 System Info: {"platform":"linux","release":"6.15.8-arch1-1","arch":"x64","model":"AMD Ryzen 5 7640U w/ Radeon 760M Graphics","cpuCount":12,"gpu":{"active":true,"cudaComputeCapabilityMajor":0,"deviceId":5567,"gpuPreference":0,"vendorId":4098}}
